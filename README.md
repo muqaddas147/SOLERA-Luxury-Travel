@@ -19,13 +19,6 @@
 
 SOLÉRA is a fictional luxury hotel and travel brand. This project presents a complete, elegant landing experience, showcasing destinations, accommodations, offers and guest reviews. It is built entirely with front-end technologies and focuses on clean structure, modern layout techniques and refined visual design.
 
-## Preview
-
-> Add screenshots to the `images/` folder and link them here.
-
-| Desktop | Tablet | Mobile |
-|:-------:|:------:|:------:|
-| ![Desktop](images/preview-desktop.png) | ![Tablet](images/preview-tablet.png) | ![Mobile](images/preview-mobile.png) |
 
 ## Features
 
