@@ -19,7 +19,6 @@
 
 SOLÉRA is a fictional luxury hotel and travel brand. This project presents a complete, elegant landing experience, showcasing destinations, accommodations, offers and guest reviews. It is built entirely with front-end technologies and focuses on clean structure, modern layout techniques and refined visual design.
 
-
 ## Features
 
 | Section | Description |
@@ -83,4 +82,18 @@ You can also run it with a local server such as the VS Code **Live Server** exte
 
 ## Important Note
 
-This is a **front-end demonstration project**.
+This is a **front-end demonstration project**. Booking, search, contact and reservation features are visual interfaces only and do not process real transactions or store any data.
+
+## Developer
+
+**Muqaddas Khizar**
+
+Designed and developed as a front-end web development project.
+
+---
+
+<div align="center">
+
+© 2026 Muqaddas Khizar · SOLÉRA is a fictional brand created for demonstration purposes.
+
+</div>
